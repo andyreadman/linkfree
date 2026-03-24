@@ -19,32 +19,20 @@
       "icon": "instagram"
     },
     {
-      "label": "Check out the Pax8 YouTube Channel",
-      "description": "Talks, interviews & keynotes",
+      "label": "Check out the Pax8 YouTube",
+      "description": "Academy content, and thought leadership",
       "url": "https://youtube.com/@pax8",
       "icon": "youtube"
     },
     {
-      "label": "Book Me to Speak",
+      "label": "Book Me as a speaker",
       "description": "Sessionize speaker profile & topics",
-      "url": "https://sessionize.com/",
+      "url": "https://sessionize.com/aiandy",
       "icon": "sessionize"
-    },
-    {
-      "label": "Speaker Bio & Keynotes",
-      "description": "Full bio, topics & booking enquiries",
-      "url": "https://andyreadman.com",
-      "icon": "microphone"
-    },
-    {
-      "label": "Books on Amazon",
-      "description": "Recommended reading list",
-      "url": "https://amazon.co.uk",
-      "icon": "book"
     }
   ],
   "footer": {
     "text": "© {year} Andy Readman",
-    "website": "https://andyreadman.com"
+    "website": "https://aiandy.me"
   }
 }
