@@ -30,6 +30,18 @@
       "url": "https://www.youtube.com/watch?v=LazDyKXBntw",
       "icon": "youtube"
     },
+   {
+      "label": "Try speed reading with my AI-built RSVP reader",
+      "description": "Can you read at more than 700 words per minute?",
+      "url": "https://rsvp.aiandy.me",
+      "icon": "sessionize"
+    },
+    {
+      "label": "Get your children talking more",
+      "description": "An AI-built interactive game to encourage little ones to talk more",
+      "url": "https://tales.aiandy.me",
+      "icon": "sessionize"
+    },
     {
       "label": "Book me as a speaker",
       "description": "Sessionize speaker profile & topics",
