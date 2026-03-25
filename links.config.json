@@ -19,9 +19,15 @@
       "icon": "instagram"
     },
     {
-      "label": "Check out the Pax8 YouTube",
-      "description": "Academy content, and thought leadership",
-      "url": "https://youtube.com/@pax8",
+      "label": "Check out the Athena Rebels Podcast",
+      "description": "How does AI Bias impact women in tech?",
+      "url": "https://www.youtube.com/watch?v=Ryb8VXXvx6A&list=PLXPTzZxp2mbZsEnMmnzEQzzIXSKu6umOA&index=3",
+      "icon": "youtube"
+    },
+   {
+      "label": "Watch my episode of Channel Chat",
+      "description": "Without a problem, every AI tool feels like a gimmick",
+      "url": "https://www.youtube.com/watch?v=LazDyKXBntw",
       "icon": "youtube"
     },
     {
